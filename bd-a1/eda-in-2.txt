@@ -1,4 +1,0 @@
-categorized_price	payment_method	counts of payment methods for products in the fourth quartile
-2	Cash	5674
-2	Credit Card	4997
-2	Debit Card	3524
